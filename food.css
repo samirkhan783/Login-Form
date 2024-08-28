@@ -1,0 +1,54 @@
+ *{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+
+ }
+ body{
+    display: flex;
+     align-items: center;
+     justify-content: center;
+     min-height: 100vh;
+     background-image: url(https://png.pngtree.com/background/20230403/original/pngtree-starry-sky-forest-night-scene-picture-image_2273424.jpg);
+     background-repeat: no-repeat;
+ }
+ #tow{
+    width: 500px;
+    height: 250px;
+    color: aliceblue;
+     background-color:blue;
+      border-radius: 50px;
+     border: darkblue;
+ }
+ #l{
+    font-size:30px;
+    text-align: center;
+ }
+#p{
+    border-radius: 40px;
+}
+#p:hover{
+    background:rgb(209, 216, 223);
+}
+#ps:hover{
+    background:rgb(231, 235, 240);
+}
+#ps{
+    border-radius: 40px;
+}
+#f{
+ color: rgb(185, 14, 14);
+}
+#log{
+    height: 20px;
+}
+.btn{
+    width: 500px;
+    border-radius: 40px;
+}
+.btn:hover{
+    background-color:lemonchiffon;
+}
+#dont{
+    text-align: center;
+}
